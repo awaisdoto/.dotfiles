@@ -1,3 +1,5 @@
-I'll be dropping my tmux configs, Neovim setup, .zshrc customizations, aliases, and other tweaks soon.
+# neovim + tmux configs 
 
-hehe
+
+
+>>>>>>> 861a8ca (nvim and tmux confs)
